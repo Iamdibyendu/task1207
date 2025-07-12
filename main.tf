@@ -7,3 +7,7 @@ resource "azurerm_resource_group" "rgtask2" {
   name     = "rg-dibyendu-101"
   location = "central india"
 }
+resource "azurerm_resource_group" "rgtask1" {
+  name     = "rg-dibyendu-102"
+  location = "central india"
+}
