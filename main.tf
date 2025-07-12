@@ -8,4 +8,4 @@ resource "azurerm_resource_group" "rgtask1" {
 }
 
 
-#I love 
+#I love INDIA
