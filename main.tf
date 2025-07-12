@@ -6,3 +6,6 @@ resource "azurerm_resource_group" "rgtask1" {
   name     = "rg-dibyendu-102"
   location = "central india"
 }
+
+
+#I love 
